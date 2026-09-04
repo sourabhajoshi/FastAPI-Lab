@@ -1,0 +1,12 @@
+1. What is API and Rest API
+
+2. What is Fast API, Advantages and Dis-advantages and why FastAPi over DRF/Flask
+
+3. Python virtual environment in Detail. How to Download
+pip install -m venv venv_name
+
+4. Steps to Setup fastAPI & Uvicorn
+
+5. First App : Books project to learn fastAPI Step by Step
+
+6. 
